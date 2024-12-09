@@ -2,7 +2,7 @@
 ## Overview
 A Python multithreading program that simulates a producer-consumer scenario with synchronized milk, cheese, and cheeseburger production. The program demonstrates complex thread synchronization using semaphores, locks, and controlled production.
 
-![alt text](http://url/to/img.png)
+![Console output](https://imgur.com/a/dYt37wT)
 
 ## Features
 - Concurrent milk production by multiple producers
